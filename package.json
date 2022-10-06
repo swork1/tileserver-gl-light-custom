@@ -1,6 +1,6 @@
 {
   "name": "tileserver-gl-light-custom",
-  "version": "4.1.1",
+  "version": "4.1.12",
   "description": "Map tile server for JSON GL styles - serving vector tiles",
   "main": "src/main.js",
   "bin": "src/main.js",
